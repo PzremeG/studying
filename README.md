@@ -1,0 +1,2 @@
+# studying
+projects for school
